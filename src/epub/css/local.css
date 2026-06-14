@@ -15,7 +15,6 @@ blockquote[xml|lang]{
 }
 /* end of foreign-language blockquote */
 
-
 /* ledger tables */
 table{
 	margin: 1em auto 1em auto;
@@ -144,12 +143,8 @@ section[epub|type~="epigraph"] > *{
 	section[epub|type~="epigraph"] > *{
 		margin: 0;
 	}
-
 }
-
 /* end of full-page epigraphs */
-
-
 /* end of images */
 
 /* letters */
@@ -199,5 +194,4 @@ p span.i3{
 	padding-left: 4em;
 	text-indent: -1em;
 }
-
 /* end of poem/verse/song */
